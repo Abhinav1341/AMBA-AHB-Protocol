@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Apr 21 16:13:10 2025
+# Process ID: 1796
+# Current directory: C:/Users/ABHINAV SINGH/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10788
+# Log file: C:/Users/ABHINAV SINGH/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/ABHINAV SINGH/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/XilinxProject/multislave_AHB/multislave_AHB.xpr
+update_compile_order -fileset sources_1
+archive_project {D:/Minor Project/multislave_AHB.xpr.zip} -temp_dir {C:/Users/ABHINAV SINGH/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-1796-Asus} -force -include_local_ip_cache -include_config_settings

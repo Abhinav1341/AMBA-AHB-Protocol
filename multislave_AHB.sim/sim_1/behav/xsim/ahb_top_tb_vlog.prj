@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../multislave_AHB.srcs/sources_1/new/ahb_decoder.v" \
+"../../../../multislave_AHB.srcs/sources_1/new/ahb_master.v" \
+"../../../../multislave_AHB.srcs/sources_1/new/ahb_mux.v" \
+"../../../../multislave_AHB.srcs/sources_1/new/ahb_slave.v" \
+"../../../../multislave_AHB.srcs/sources_1/new/ahb_top.v" \
+"../../../../multislave_AHB.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

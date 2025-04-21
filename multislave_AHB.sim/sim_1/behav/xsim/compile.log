@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/XilinxProject/multislave_AHB/multislave_AHB.srcs/sources_1/new/ahb_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ahb_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/XilinxProject/multislave_AHB/multislave_AHB.srcs/sim_1/new/tb_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_tb
